@@ -1,12 +1,9 @@
 # 🍽️ The Culinary Companion
 
-[![Android](https://img.shields.iog. 3](https://img.shields.io/badge/Design-Material%203-purple.svg recipe browsing application built for WeightWatchers, showcasing the latest Android development practices and clean architecture principles.
+Recipe browsing application built for WeightWatchers, showcasing the latest Android development practices and clean architecture principles.
 
 ## 📱 Screenshots
 
-| Recipe List | Loading State | Error Handling |
-|-------------|---------------|----------------|
-|  |  |  |
 
 ## ✨ Features
 
