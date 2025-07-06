@@ -3,6 +3,7 @@
 Recipe browsing application built for WeightWatchers, showcasing the latest Android development practices and clean architecture principles.
 
 ## 📱 Screenshots
+<img src="https://drive.google.com/file/d/1TbacdS7vuRg_PyqrF20hBuiAUN7l-HS7/view?usp=drive_link" width="250"/>
 
 
 ## ✨ Features
